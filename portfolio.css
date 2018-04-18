@@ -17,3 +17,7 @@ body {
 	background-color: #bbc3cc;
 	font-family: 'Montserrat';font-size: 22px;
 }
+
+.header {
+	border-top: solid 10px #000000;
+}
