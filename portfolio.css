@@ -62,3 +62,15 @@ a:hover {
      color: #dfdfdf;
      cursor: pointer; /* This ensures that the cursor changes on hover */
    }
+
+.flex {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: -flex;
+	align-items: center;
+}
+
+.column {
+   	flex-direction: column;
+}
