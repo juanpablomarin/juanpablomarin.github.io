@@ -42,3 +42,8 @@ a {
 a:hover {
 	color: #48b2e8;
 }
+
+.title {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+ }
