@@ -12,7 +12,11 @@
 
 /*tag selector*/
 h1 {
-	color: blue;
+	color: black;
+}
+
+section {
+	align-self: center;
 }
 
 body {
